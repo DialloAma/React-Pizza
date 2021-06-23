@@ -1,0 +1,13 @@
+.navb {
+    background-color: #a94442;
+    border:none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navb .navbar-nav > li > a {
+    color: red;
+}
+.navb .navbar-brand {
+    color: white;
+    font-weight: bolder;
+}
